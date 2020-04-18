@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a7f7a022fcf6126448db98dffd838a14
+timeCreated: 1533990479
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sheeping Cats
+  fontNames:
+  - Sheeping Cats
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

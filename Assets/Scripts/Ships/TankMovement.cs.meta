@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 29af3199e11b72e47b41ff380db540fd
+timeCreated: 1431010528
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_MovementAudio: {instanceID: 0}
+  - m_EngineIdling: {fileID: 8300000, guid: 0f259f9cee750495392187c5c7ea6cf4, type: 3}
+  - m_EngineDriving: {fileID: 8300000, guid: ce17690a879ba4a6a9a1281fc5efe24a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
